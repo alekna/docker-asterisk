@@ -1,7 +1,7 @@
 # Asterisk
 Purpose-built Asterisk docker image for personal use as a GSM gateway
-
-* asterisk 18.2.1
+## Includes
+* asterisk 18.2.2
 * chan_dongle
 
 ## Usage
